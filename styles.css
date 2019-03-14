@@ -1,0 +1,68 @@
+
+body {
+    background-color: deepskyblue;
+}
+
+.Greeting {
+    font-family: 'Sniglet', cursive;
+    font-size: 70px;
+    color: navy;
+}
+
+.intro {
+    font-family: 'Inconsolata', monospace;
+    font-size: 40px;
+    color: mediumorchid;
+}
+
+.money {
+    font-family: 'Lilita One', cursive;
+    font-size: 40px;
+    color: gold;
+}
+
+.PoN {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pay {
+    font-size: 100px;
+    border: dotted gold 30px;
+    background: navy;
+}
+
+.or {
+    font-size: 50px;
+}
+
+.neigh {
+    font-size: 100px;
+    border: dotted gold 30px;
+    background: navy;
+}
+
+.begone {
+    font-family: 'Oswald', sans-serif;
+    font-size: 100px;
+}
+
+.fortune {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color: navy;
+}
+
+.childIn {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 200px;
+}
+
+.rpn {
+    font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
