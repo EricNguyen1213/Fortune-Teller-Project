@@ -63,6 +63,7 @@ $(".submit").click(function(){
         $(".spousePlace").text(spName);
         $(".two").show();
         $(".second").hide();
+    }
     
     var NumberChild = $(".NumOfCh").val();
     $(".chPlace").text(NumberChild);
